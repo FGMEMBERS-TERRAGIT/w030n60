@@ -30,3 +30,11 @@ OBJECT_SHARED Models/Aircraft/ASK-13_Trailer.ac -21.5761749 64.0573969 180 0
 OBJECT_STATIC BISScircularhangar.ac -21.576479 64.056954 179 30
 OBJECT_STATIC BISSmainhangar.ac -21.577077 64.056846 176 20
 OBJECT_STATIC Hvaleyri_Lighthouse.xml -21.9979137 64.0651499 0 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -21.57608 64.05700 180.00 205.2
+OBJECT_SHARED Models/Misc/6barrels.ac -21.57615 64.05725 180.00 0
+OBJECT_SHARED Models/lib/MedHangar.ac -21.57658 64.05695 180.00 292.295
+OBJECT_SHARED Models/lib/SmHangar.ac -21.57600 64.05730 180.00 293.901
+# END dsf2stg

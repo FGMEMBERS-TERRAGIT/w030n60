@@ -74,3 +74,11 @@ OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml -20.3050486 64.2466815 78.9
 OBJECT_SHARED Models/Airport/Club_House.ac -20.3045486 64.2437012 78.79 0
 OBJECT_SHARED Models/Airport/Club_House.ac -20.3039589 64.2438693 78.85 0
 OBJECT_SHARED Models/Airport/Club_House.ac -20.3034397 64.2436865 78.93 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -20.32899 64.14156 70.25 325.784
+OBJECT_SHARED Models/lib/cars4.ac -20.32869 64.14152 70.42 328.16
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -20.32933 64.14165 70.10 328.714
+OBJECT_SHARED Models/lib/SmHangar.ac -20.32899 64.14135 70.14 328.793
+# END dsf2stg

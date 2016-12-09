@@ -1,2 +1,7 @@
 OBJECT_SHARED Models/Airport/ils.xml -22.6825 66.043889 7.94 244.39
 OBJECT_SHARED Models/Communications/vordme_1.xml -22.682463 66.043386 19.49 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -22.57366 66.10102 20.89 116.57
+# END dsf2stg

@@ -1,1 +1,10 @@
 OBJECT_SHARED Models/Airport/ndb.ac -23.990833 65.788611 1.58 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars2.ac -23.54958 65.86990 9.02 153.868
+OBJECT_SHARED Models/lib/stack_of_cones.ac -23.54969 65.86982 9.25 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -23.54905 65.86976 9.11 156.073
+OBJECT_SHARED Models/lib/lamp10m.xml -23.54909 65.86972 9.35 155.98
+OBJECT_SHARED Models/lib/lamp10m.xml -23.54966 65.86984 9.25 154.733
+# END dsf2stg
