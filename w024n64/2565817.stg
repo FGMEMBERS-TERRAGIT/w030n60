@@ -4,3 +4,4 @@ OBJECT_STATIC Krossnesviti.xml -23.3566639 64.9713902 0 176
 #
 OBJECT_SHARED Models/Transport/hatchback_black.ac -23.22001 64.99146 6.62 337.2
 # END dsf2stg
+OBJECT_STATIC Krossnesviti.xml -23.3566639 64.9713902 0.75 176

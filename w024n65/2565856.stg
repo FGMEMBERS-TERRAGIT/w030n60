@@ -6,3 +6,4 @@ OBJECT_SHARED Models/lib/SmHangar.ac -23.96976 65.55545 12.49 240
 OBJECT_SHARED Models/lib/SmHangar.ac -23.97018 65.55555 12.20 240
 OBJECT_SHARED Models/Transport/hatchback_green.ac -23.97059 65.55558 12.14 0
 # END dsf2stg
+OBJECT_SHARED Models/Airport/ndb.ac -23.953056 65.555833 5.39 180

@@ -14,3 +14,4 @@ OBJECT_SHARED Models/lib/SmHangar.ac -21.03287 63.92829 0.00 50.5496
 OBJECT_SHARED Models/lib/10_spaces_dual.ac -21.03298 63.92860 0.00 51.7822
 OBJECT_SHARED Models/lib/10_spaces_dual.ac -21.03340 63.92875 0.00 51.1494
 # END dsf2stg
+OBJECT_SHARED Models/Airport/ndb.ac -21.034167 63.928889 12.97 180

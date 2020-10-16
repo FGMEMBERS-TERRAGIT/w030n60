@@ -11,3 +11,4 @@ OBJECT_SHARED Models/lib/lamp10m.xml -20.28793 65.64895 33.41 254.44
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -20.28668 65.64833 34.71 262.17
 OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -20.28692 65.64916 34.61 38.51
 # END dsf2stg
+OBJECT_SHARED Models/Airport/ndb.ac -20.2925 65.686389 39.7 180

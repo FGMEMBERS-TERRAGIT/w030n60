@@ -9,3 +9,4 @@ OBJECT_SHARED Models/lib/lamp10m.xml -23.54909 65.86972 9.00 155.98
 OBJECT_SHARED Models/lib/lamp10m.xml -23.54966 65.86984 8.84 154.733
 OBJECT_SHARED Models/lib/4container-office.ac -23.54933 65.86983 8.81 332.913
 # END dsf2stg
+OBJECT_SHARED Models/Airport/ndb.ac -23.990833 65.788611 1.06 180
