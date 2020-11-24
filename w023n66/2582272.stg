@@ -3,7 +3,7 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -22.682463 66.043386 19.49 180
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/van_red.ac -22.57366 66.10102 19.83 116.57
+OBJECT_SHARED Models/Transport/van_silver.ac -22.57366 66.10102 0.00 116.57
 # END dsf2stg
 OBJECT_SHARED Models/Airport/ils.xml -22.6825 66.043889 17.5 244.39
 OBJECT_SHARED Models/Communications/vordme_1.xml -22.682463 66.043386 25.46 180
